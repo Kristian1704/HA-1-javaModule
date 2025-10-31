@@ -1,0 +1,45 @@
+
+
+
+1. Storage Management System
+   - Add and manage storage vehicles
+   - Add and manage charging stations
+   - Assign items to storage vehicles
+   - Track battery percentage for each vehicle
+   - Vehicle–Charging station assignment
+
+2. Task Management System
+   - Create tasks
+   - Assign tasks to vehicles
+   - Update task statuses (Pending, In Progress, Done)
+   - List tasks with statuses
+
+3. Logging System
+   - Log every system action
+   - Create daily log files for:
+        • Each storage vehicle
+        • Each charging station
+        • Entire system operations
+   - Allow opening logs by equipment name or date
+
+4. Metadata Tracking
+   - Track log file creation
+   - Track moving log files
+   - Track deletion of logs
+   - Track archive events (ZIP)
+   - Store metadata in CSV file
+
+5. Data Exchange Simulation (I/O Streams)
+   - Use byte streams to simulate binary data exchange
+   - Use character streams to save readable log results
+   - Generate simulated inventory/transport messages
+
+6. Regular Expressions
+   - Validate user input (IDs, names, date format)
+   - Enable regex-based log searching by name/date
+
+7. Console-Based User Interface
+   - Menu-driven console application
+   - Options for all operations including log access and archive handling
+
+
